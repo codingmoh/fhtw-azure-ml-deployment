@@ -1,6 +1,6 @@
 {
-    "subscription_id": "1733779b-a9a7-475a-8154-8d234aa450f7",
-    "resource_group": "dsc-sc",
-    "workspace_name": "fhtw-ml-space",
+    "subscription_id": "73fc0666-cbe3-4535-b3c6-83baeeaf94f5",
+    "resource_group": "fhtw-solution-engineering",
+    "workspace_name": "fhtw-ml-23",
     "tenant_id": "a0a6d112-ab35-410a-b961-1280cf758bfc"
 }
